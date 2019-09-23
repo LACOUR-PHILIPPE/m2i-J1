@@ -1,7 +1,11 @@
-total 4
-drwxr-xr-x 1 LACOUR 1049089 0 sept. 23 10:03 ./
-drwxr-xr-x 1 LACOUR 1049089 0 sept. 23 09:53 ../
-drwxr-xr-x 1 LACOUR 1049089 0 sept. 23 10:01 .git/
+﻿total 4
+
+drwxr-xr-x 1 LACOUR 1049089 0 sept. 23 10:03 
+./
+drwxr-xr-x 1 LACOUR 1049089 0 sept. 23 09:53 
+../
+drwxr-xr-x 1 LACOUR 1049089 0 sept. 23 10:01 
+.git/
 -rw-r--r-- 1 LACOUR 1049089 0 sept. 23 10:03 HelloWorld.txt
 
 
