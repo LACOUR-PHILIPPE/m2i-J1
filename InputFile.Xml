@@ -15,7 +15,7 @@
 				<Field Name="PRILANGID" Value="12" Type="Integer"/>
 				<Field Name="SUBLANGID" Value="1" Type="Integer"/>
 				<Field Name="USER" Value="PDA" Type="String"/>
-				<Field Name="JOBMAIL" Value="placour@cegid.fr" Type="String"/>
+				<Field Name="JOBMAIL" Value="placour@cegid.com" Type="String"/>
 				<Field Name="ACTION" Value="RUN_CBS_TASK" Type="String"/>
 				<Field Name="JOBID" Value="104" Type="Integer"/>
 			</Fields>
