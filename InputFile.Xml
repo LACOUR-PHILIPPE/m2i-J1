@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Document>
+	<Data formatVersion="ForwardRead" serializeVersion="3.1">
+		<Tob Name="_REQUEST_">
+			<Fields>
+				<Field Name="JOBNAME" Value="CBS-TASK-ImportDescriptionArticle" Type="String"/>
+				<Field Name="JOBDESCRIPTION" Value="CBS-TASK-ImportDescriptionArticle" Type="String"/>
+				<Field Name="FUNCTION" Value="ImportDescriptionArticle" Type="String"/>
+				<Field Name="NO_JNALEVENT" Value="17423" Type="Integer"/>
+				<Field Name="ETAB_JNALEVT" Value="103" Type="String"/>
+				<Field Name="USERLOGIN" Value="LACOUR" Type="String"/>
+				<Field Name="DOMAINNAME" Value="NEGOTIATE\CEGIDGROUP" Type="String"/>
+				<Field Name="DATEENTREE" Value="2019-09-12T00:00:00.000+02:00" Type="DateTime"/>
+				<Field Name="DOSSIER" Value="DEMO_V14" Type="String"/>
+				<Field Name="PRILANGID" Value="12" Type="Integer"/>
+				<Field Name="SUBLANGID" Value="1" Type="Integer"/>
+				<Field Name="USER" Value="PDA" Type="String"/>
+				<Field Name="JOBMAIL" Value="placour@cegid.fr" Type="String"/>
+				<Field Name="ACTION" Value="RUN_CBS_TASK" Type="String"/>
+				<Field Name="JOBID" Value="104" Type="Integer"/>
+			</Fields>
+		</Tob>
+	</Data>
+</Document>
